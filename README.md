@@ -66,6 +66,6 @@ Este projeto tem como objetivo ser um backend base para uma avaliação de desen
 
 ## Como enviar o projeto?
 
-Crie um projeto no GitHub para ir commitando a evolução do seu código.
+Crie um projeto no **seu perfil do GitHub** para ir commitando a evolução do seu código.
 
-Ao final favor enviar o link do projeto GitHub para andre@adaptum.com.br.
+Ao final, favor enviar o link do projeto GitHub para andre@adaptum.com.br.
