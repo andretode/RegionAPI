@@ -15,8 +15,8 @@ Este projeto tem como objetivo ser um backend base para uma avaliação de desen
 - ✔️ PostgreSQL
 
 ### Preparação do Banco de Dados
-- ✔️ No VSC, abra o arquivo appsettings.json e ajuste em "ConnectionStrings > DefaultConnection" o usuário e senha para acesso ao BD.
-- ✔️ No VSC, no "Console Gerenciador de Pacotes", Selecione o projeto "RegionAPI" e execute o comando "Update-Database", para criar o banco de dados.
+- ✔️ No VSC, abra o arquivo `appsettings.json` e ajuste em *"ConnectionStrings > DefaultConnection"* o usuário e senha para acesso ao BD.
+- ✔️ No VSC, no *"Console Gerenciador de Pacotes", Selecione o projeto "RegionAPI"* e execute o comando `Update-Database`, para criar o banco de dados.
 
 ### Executar a API
 - ✔️ Agora basta apertar a tecla F5 no VSC para executar o projeto e levantar a API.
