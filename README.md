@@ -8,6 +8,8 @@ Esta avaliação espera como resultado um frontend funcional feito em Vue.js. O 
 
 ### Implemente o CRUD de regiões, protótipo abaixo.
 
+*Atenção: Este é apenas um protótipo, use suas habilidades para criar um front inspirador, mas intuitivo e funcional.*
+
 ![Protótipo da tela do CRUD](prototipo-tela-crud-regioes.png)
 
 ### Regras
