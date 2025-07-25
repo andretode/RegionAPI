@@ -23,13 +23,12 @@ inativa.
 - Para regiões ativas, exibir a opção “Inativar”.
 - Para regiões inativas, exibir a opção “Ativar”.
 - Ao clicar em “Inativar”:
- - Exibir mensagem de confirmação antes de inativar uma região.
- - Inativar o registro (não excluir fisicamente).
+  - Exibir mensagem de confirmação antes de inativar uma região.
+  - Inativar o registro (não excluir fisicamente).
 - Ao clicar em “Editar”:
- - Carregar a região e UF nos campos acima do grid.
- - Ao clicar em Gravar: atualizar os dados, limpar os campos e recarregar o grid.
--  Ao clicar em “Ativar”.
- - Atualizar a situação do registro para ativo.
+  - Carregar a região e UF nos campos acima do grid.
+  - Ao clicar em Gravar: atualizar os dados, limpar os campos e recarregar o grid.
+-  Ao clicar em “Ativar”, atualizar a situação do registro para ativo.
 
 ### Tecnologia Frontend
 
