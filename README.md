@@ -1,8 +1,8 @@
-# Avaliação para Desenvolvedor Web Júnior - Frontend
+# Avaliação para Desenvolvedor Web - Frontend
 
 ## Resultado Esperado
 
-Esta avaliação espera como resultado um frontend funcional feito em Vue.js. O frontend deve consumir um backend que já está pronto e que será falado mais frente.
+Esta avaliação espera como resultado um frontend funcional feito em Vue.js. O frontend deve consumir um backend que já está pronto e que será falado mais a frente.
 
 ## Requisito a Ser Desenvolvido
 
